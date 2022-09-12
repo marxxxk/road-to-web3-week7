@@ -2,7 +2,7 @@
 this is the main code for Alchemy Road-To-Web3 week7 challenge.
 
 # Installation
-1. enviroment
+1. enviroment\n
   git clone https://github.com/marxxxk/road-to-web3-week7
   cd road-to-web3-week7/nftmarket
   npm install
